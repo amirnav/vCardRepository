@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Doe;John;;;
+FN:John Doe
+ORG:Your Company Name
+TEL:+1234567890
+PHOTO;VALUE=uri:https://i.imgur.com/TlEVUJN.png
+END:VCARD
